@@ -2,7 +2,7 @@
 
 class Product{
     public $priceS;
-    public $qt;
+    private $qt;
     public $brand;
     public $name;
 
